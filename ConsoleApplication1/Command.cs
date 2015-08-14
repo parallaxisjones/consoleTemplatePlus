@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace console.template
+namespace ConsoleApplicationBase
 {
     public class ConsoleCommand
     {
